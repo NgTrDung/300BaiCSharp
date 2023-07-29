@@ -1,0 +1,8 @@
+F:\300CodeThieuNhiCSharp\300 code thieu nhi C_Sharp\Bai 5\bin\Debug\Bai 5.exe.config
+F:\300CodeThieuNhiCSharp\300 code thieu nhi C_Sharp\Bai 5\bin\Debug\Bai 5.exe
+F:\300CodeThieuNhiCSharp\300 code thieu nhi C_Sharp\Bai 5\bin\Debug\Bai 5.pdb
+F:\300CodeThieuNhiCSharp\300 code thieu nhi C_Sharp\Bai 5\obj\Debug\Bai 5.csproj.AssemblyReference.cache
+F:\300CodeThieuNhiCSharp\300 code thieu nhi C_Sharp\Bai 5\obj\Debug\Bai 5.csproj.SuggestedBindingRedirects.cache
+F:\300CodeThieuNhiCSharp\300 code thieu nhi C_Sharp\Bai 5\obj\Debug\Bai 5.csproj.CoreCompileInputs.cache
+F:\300CodeThieuNhiCSharp\300 code thieu nhi C_Sharp\Bai 5\obj\Debug\Bai 5.exe
+F:\300CodeThieuNhiCSharp\300 code thieu nhi C_Sharp\Bai 5\obj\Debug\Bai 5.pdb

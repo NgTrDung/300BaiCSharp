@@ -1,0 +1,8 @@
+F:\Download_Github_Desktop\Temp\300CodeThieuNhiCSharp\300 code thieu nhi C_Sharp\Bai 4\bin\Debug\Bai 4.exe.config
+F:\Download_Github_Desktop\Temp\300CodeThieuNhiCSharp\300 code thieu nhi C_Sharp\Bai 4\bin\Debug\Bai 4.exe
+F:\Download_Github_Desktop\Temp\300CodeThieuNhiCSharp\300 code thieu nhi C_Sharp\Bai 4\bin\Debug\Bai 4.pdb
+F:\Download_Github_Desktop\Temp\300CodeThieuNhiCSharp\300 code thieu nhi C_Sharp\Bai 4\obj\Debug\Bai 4.csproj.AssemblyReference.cache
+F:\Download_Github_Desktop\Temp\300CodeThieuNhiCSharp\300 code thieu nhi C_Sharp\Bai 4\obj\Debug\Bai 4.csproj.SuggestedBindingRedirects.cache
+F:\Download_Github_Desktop\Temp\300CodeThieuNhiCSharp\300 code thieu nhi C_Sharp\Bai 4\obj\Debug\Bai 4.csproj.CoreCompileInputs.cache
+F:\Download_Github_Desktop\Temp\300CodeThieuNhiCSharp\300 code thieu nhi C_Sharp\Bai 4\obj\Debug\Bai 4.exe
+F:\Download_Github_Desktop\Temp\300CodeThieuNhiCSharp\300 code thieu nhi C_Sharp\Bai 4\obj\Debug\Bai 4.pdb
