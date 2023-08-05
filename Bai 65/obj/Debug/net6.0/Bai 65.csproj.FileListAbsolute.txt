@@ -1,0 +1,15 @@
+F:\Download_Github_Desktop\300BaiCSharp\Bai 65\bin\Debug\net6.0\Bai 65.exe
+F:\Download_Github_Desktop\300BaiCSharp\Bai 65\bin\Debug\net6.0\Bai 65.deps.json
+F:\Download_Github_Desktop\300BaiCSharp\Bai 65\bin\Debug\net6.0\Bai 65.runtimeconfig.json
+F:\Download_Github_Desktop\300BaiCSharp\Bai 65\bin\Debug\net6.0\Bai 65.dll
+F:\Download_Github_Desktop\300BaiCSharp\Bai 65\bin\Debug\net6.0\Bai 65.pdb
+F:\Download_Github_Desktop\300BaiCSharp\Bai 65\obj\Debug\net6.0\Bai 65.csproj.AssemblyReference.cache
+F:\Download_Github_Desktop\300BaiCSharp\Bai 65\obj\Debug\net6.0\Bai 65.GeneratedMSBuildEditorConfig.editorconfig
+F:\Download_Github_Desktop\300BaiCSharp\Bai 65\obj\Debug\net6.0\Bai 65.AssemblyInfoInputs.cache
+F:\Download_Github_Desktop\300BaiCSharp\Bai 65\obj\Debug\net6.0\Bai 65.AssemblyInfo.cs
+F:\Download_Github_Desktop\300BaiCSharp\Bai 65\obj\Debug\net6.0\Bai 65.csproj.CoreCompileInputs.cache
+F:\Download_Github_Desktop\300BaiCSharp\Bai 65\obj\Debug\net6.0\Bai 65.dll
+F:\Download_Github_Desktop\300BaiCSharp\Bai 65\obj\Debug\net6.0\refint\Bai 65.dll
+F:\Download_Github_Desktop\300BaiCSharp\Bai 65\obj\Debug\net6.0\Bai 65.pdb
+F:\Download_Github_Desktop\300BaiCSharp\Bai 65\obj\Debug\net6.0\Bai 65.genruntimeconfig.cache
+F:\Download_Github_Desktop\300BaiCSharp\Bai 65\obj\Debug\net6.0\ref\Bai 65.dll
